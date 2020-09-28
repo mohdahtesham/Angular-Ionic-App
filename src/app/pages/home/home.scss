@@ -1,0 +1,21 @@
+.bell {
+  margin-right: 14px;
+}
+ion-badge {
+  position: absolute;
+  opacity: 0.9;
+      top: 0.1rem;
+      right: 6px;
+  & ~ ion-icon {
+    margin-right: 28px;
+  }
+}
+.img-wrapper {
+  min-height: 200px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.autoslider{
+  height: 50%;
+}
