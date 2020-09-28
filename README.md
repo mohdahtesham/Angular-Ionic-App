@@ -1,6 +1,8 @@
 # The Farm Boy ECommerce Application
 
 This is Ecommerce application of the Ionic Framework and Angular.
+![alt text](https://github.com/mohdahtesham/Dice-Game/blob/master/Screenshot-Result.png?raw=true)
+
 
 
 
