@@ -1,8 +1,8 @@
 {
   "name": "the-farm-boy",
   "version": "0.0.0",
-  "description": "Ionic Conference App",
-  "author": "Ionic Team <hi@ionicframework.com>",
+  "description": "Ionic Ecommerce App",
+  "author": "Mohd Ahtesham <hi@mohdahtesham.com>",
   "license": "Apache-2.0",
   "scripts": {
     "ng": "ng",
