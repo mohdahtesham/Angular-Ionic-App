@@ -1,6 +1,6 @@
 # The Farm Boy ECommerce Application
 
-This is Ecommerceapplication of the Ionic Framework and Angular.
+This is Ecommerce application of the Ionic Framework and Angular.
 
 
 
